@@ -62,7 +62,7 @@ numpy==1.16.4
 
 pandas==0.24.2
 
-Pillow==6.2.1
+Pillow==9.0.0
 
 post==2019.4.13
 
